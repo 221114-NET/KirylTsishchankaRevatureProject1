@@ -1,0 +1,408 @@
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\2022_12_06\trainer_code\demos\FE-API-Demo-my\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-1\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_10\FE-API-Demo-my-3-RemovedFiveEmpReimbursements\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-4\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-5-Rename_PostCostomer_by_CustomerRegistration\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-6-CustomerLogin_Method\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-7-CustomerLoginMethod\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-8-CustomerReimbursementForm\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-9-CustomerReimbursementFormImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-10-CustomerRegistrationUniqueUserName\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-11-CustomerReimbursementFormMoreItems\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-12-ManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-13-ManagerApprovalImpl\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-14-ManagerApprovalImpl2\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-16-ManagerApprovalImpl4 ListAll\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-17-ManagerApprovalPending\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-18-DeleteManagerApproval\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-19-DeleteCustomerId\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_11\FE-API-Demo-my-21-DeletePokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-22-Delete_Comments\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\ModelsLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\bin\Debug\net6.0\RepoLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\kt376\Desktop\Revature\My projects\Project 1\2022_12_12\FE-API-Demo-my-23-Delete_Pokemon\ApiStructureDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
